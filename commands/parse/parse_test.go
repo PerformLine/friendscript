@@ -7,9 +7,9 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/ghetzel/friendscript/scripting"
-	"github.com/ghetzel/friendscript/utils"
-	"github.com/ghetzel/testify/require"
+	"github.com/PerformLine/friendscript/scripting"
+	"github.com/PerformLine/friendscript/utils"
+	"github.com/stretchr/testify/require"
 )
 
 var testJsonData = `{

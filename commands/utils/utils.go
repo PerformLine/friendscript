@@ -2,7 +2,7 @@
 package utils
 
 import (
-	"github.com/ghetzel/friendscript/utils"
+	"github.com/PerformLine/friendscript/utils"
 )
 
 type Commands struct {

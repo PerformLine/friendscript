@@ -1,7 +1,7 @@
 package friendscript
 
 import (
-	"github.com/ghetzel/friendscript/utils"
+	"github.com/PerformLine/friendscript/utils"
 )
 
 type Module = utils.Module

@@ -5,7 +5,7 @@ package parse
 import (
 	"encoding/json"
 
-	"github.com/ghetzel/friendscript/utils"
+	"github.com/PerformLine/friendscript/utils"
 	"gopkg.in/yaml.v2"
 )
 
