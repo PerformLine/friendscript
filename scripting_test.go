@@ -8,11 +8,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ghetzel/friendscript/utils"
-	"github.com/ghetzel/go-stockutil/httputil"
-	"github.com/ghetzel/go-stockutil/maputil"
-	"github.com/ghetzel/go-stockutil/typeutil"
-	"github.com/ghetzel/testify/require"
+	"github.com/PerformLine/friendscript/utils"
+	"github.com/PerformLine/go-stockutil/httputil"
+	"github.com/PerformLine/go-stockutil/maputil"
+	"github.com/PerformLine/go-stockutil/typeutil"
+	"github.com/stretchr/testify/require"
 	"github.com/yudai/gojsondiff"
 	"github.com/yudai/gojsondiff/formatter"
 )

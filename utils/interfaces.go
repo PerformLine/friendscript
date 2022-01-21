@@ -3,7 +3,7 @@ package utils
 import (
 	"io"
 
-	"github.com/ghetzel/friendscript/scripting"
+	"github.com/PerformLine/friendscript/scripting"
 )
 
 type PathWriterFunc = func(string) (string, io.Writer, error)

@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/ghetzel/go-stockutil/stringutil"
+	"github.com/PerformLine/go-stockutil/stringutil"
 )
 
 type DefaultExecutor struct {

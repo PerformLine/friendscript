@@ -3,7 +3,7 @@ package url
 import (
 	"testing"
 
-	"github.com/ghetzel/testify/require"
+	"github.com/stretchr/testify/require"
 )
 
 func TestParseString(t *testing.T) {
