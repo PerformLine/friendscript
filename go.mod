@@ -1,7 +1,7 @@
 module github.com/PerformLine/friendscript
 
 require (
-	github.com/PerformLine/go-stockutil v1.9.0
+	github.com/PerformLine/go-stockutil v1.9.1
 	github.com/c-bata/go-prompt v0.2.2
 	github.com/fatih/color v1.7.0
 	github.com/fatih/structs v1.0.0
