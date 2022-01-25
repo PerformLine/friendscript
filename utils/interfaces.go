@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/ghetzel/friendscript/scripting"
+	"github.com/PerformLine/friendscript/scripting"
 )
 
 type Scopeable interface {

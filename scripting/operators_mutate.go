@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ghetzel/go-stockutil/stringutil"
+	"github.com/PerformLine/go-stockutil/stringutil"
 )
 
 type operator int

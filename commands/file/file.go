@@ -8,7 +8,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/ghetzel/friendscript/utils"
+	"github.com/PerformLine/friendscript/utils"
 	defaults "github.com/mcuadros/go-defaults"
 )
 
