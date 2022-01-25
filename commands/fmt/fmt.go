@@ -6,10 +6,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/ghetzel/friendscript/utils"
-	"github.com/ghetzel/go-stockutil/sliceutil"
-	"github.com/ghetzel/go-stockutil/stringutil"
-	"github.com/ghetzel/go-stockutil/typeutil"
+	"github.com/PerformLine/friendscript/utils"
+	"github.com/PerformLine/go-stockutil/sliceutil"
+	"github.com/PerformLine/go-stockutil/stringutil"
+	"github.com/PerformLine/go-stockutil/typeutil"
 	defaults "github.com/mcuadros/go-defaults"
 )
 

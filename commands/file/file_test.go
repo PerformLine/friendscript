@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ghetzel/testify/require"
+	"github.com/stretchr/testify/require"
 )
 
 func TestFileOperations(t *testing.T) {
